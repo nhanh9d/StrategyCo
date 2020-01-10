@@ -47,7 +47,7 @@
 
 #sub-footer
 {
-	background-color: #0b0839;
+	background-color: #1f497d;
 }
 
 .mk-footer-copyright {
@@ -131,14 +131,14 @@
 body
 {
 	font-size: 16px;
-	color: #0b0839;
+	color: #1f497d;
 	font-weight: 400;
 	line-height: 1.66em;
 }
 
 p {
 	font-size: 16px; 
-	color: #474469;
+	color: #1f497d;
 	line-height: 1.6em;
 }
 
@@ -147,7 +147,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-	color: #0b0839;
+	color: #1f497d;
 }
 
 a:hover {
@@ -161,7 +161,7 @@ a:hover {
 .master-holder h1
 {
 	font-size: 36px;
-	color: #0b0839;
+	color: #1f497d;
 	font-weight: 700;
 	text-transform: none;
 }
@@ -169,7 +169,7 @@ a:hover {
 .master-holder h2
 {
 	font-size: 30px;
-	color: #0b0839;
+	color: #1f497d;
 	font-weight: 700;
 	text-transform: none;
 }
@@ -178,7 +178,7 @@ a:hover {
 .master-holder h3
 {
 	font-size: 24px;
-	color: #545274;
+	color: #1f497d;
 	font-weight: 700;
 	text-transform: none;
 }
@@ -195,7 +195,7 @@ a:hover {
 .master-holder h5
 {
 	font-size: 16px;
-	color: #0b0839;
+	color: #1f497d;
 	font-weight: 600;
 	text-transform: none;
 }
@@ -204,14 +204,14 @@ a:hover {
 .master-holder h6
 {
 	font-size: 14px;
-	color: #0b0839;
+	color: #1f497d;
 	font-weight: 600;
 	text-transform: uppercase;
 }
 
 
 .mk-section-preloader {
-	background-color:#0b0839 !important;
+	background-color:#1f497d !important;
 }
 
 
@@ -753,18 +753,18 @@ a:hover {
 .mk-shopping-cart-box .widget_shopping_cart .total,
 .mk-shopping-cart-box .woocommerce-mini-cart__empty-message
 {
-	color: rgba(11,8,57,0.85);
+	color: #1f497d;
 }
 .mk-main-navigation ul.sub-menu .menu-sub-level-arrow svg {
-	fill: rgba(11,8,57,0.85);
+	fill: #1f497d;
 }
 .mk-main-navigation ul.sub-menu li:hover .menu-sub-level-arrow svg {
 	fill: #228cd8;
 }
 
 .mk-shopping-cart-box .button {
-	border-color:rgba(11,8,57,0.85);
-	color:rgba(11,8,57,0.85);
+	border-color:#1f497d;
+	color:#1f497d;
 }
 
 .mk-main-navigation ul .megamenu-title
@@ -777,7 +777,7 @@ a:hover {
 }
 
 .megamenu-widgets-container {
-	color: rgba(11,8,57,0.85);
+	color: #1f497d;
 }
 
 .megamenu-widgets-container .widgettitle

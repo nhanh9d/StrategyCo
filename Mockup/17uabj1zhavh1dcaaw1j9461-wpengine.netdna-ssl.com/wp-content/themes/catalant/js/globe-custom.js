@@ -18,7 +18,7 @@ var latLngs = [[40.7141667,-74.0063889],[34.0522222,-118.2427778],[41.85,-87.65]
   }));
   // Load our custom `lakes` plugin to draw lakes; see below.
   planet.loadPlugin(lakes({
-    fill: '#0b0839'
+    fill: '#1f497d'
   }));
   // The `pings` plugin draws animated pings on the planet.
   planet.loadPlugin(planetaryjs.plugins.pings());

@@ -14,14 +14,14 @@
 /* Popup Theme 12209: Default Theme */
 .pum-theme-12209, .pum-theme-default-theme { background-color: rgba( 11, 8, 57, 0.50 ) } 
 .pum-theme-12209 .pum-container, .pum-theme-default-theme .pum-container { padding: 30px; border-radius: 8px; border: 1px none #000000; box-shadow: 0px 12px 60px 0px rgba( 0, 0, 0, 0.30 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
-.pum-theme-12209 .pum-title, .pum-theme-default-theme .pum-title { color: #0b0839; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.32 ); font-family: inherit; font-weight: 300; font-size: 22px; line-height: 41px } 
+.pum-theme-12209 .pum-title, .pum-theme-default-theme .pum-title { color: #1f497d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.32 ); font-family: inherit; font-weight: 300; font-size: 22px; line-height: 41px } 
 .pum-theme-12209 .pum-content, .pum-theme-default-theme .pum-content { color: #3c3961; font-family: inherit; font-weight: 400 } 
 .pum-theme-12209 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { position: absolute; height: auto; width: 16px; left: auto; right: -30px; bottom: auto; top: -30px; padding: 10px; color: #7fbeeb; font-family: Sans-Serif; font-weight: 400; font-size: 22px; line-height: 8px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 0.00 ) } 
 
 /* Popup Theme 16649: Video Theme */
 .pum-theme-16649, .pum-theme-video-theme { background-color: rgba( 11, 8, 57, 0.50 ) } 
 .pum-theme-16649 .pum-container, .pum-theme-video-theme .pum-container { padding: 0px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 42px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
-.pum-theme-16649 .pum-title, .pum-theme-video-theme .pum-title { color: #0b0839; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-16649 .pum-title, .pum-theme-video-theme .pum-title { color: #1f497d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 32px; line-height: 36px } 
 .pum-theme-16649 .pum-content, .pum-theme-video-theme .pum-content { color: #3c3961; font-family: inherit; font-weight: 400 } 
 .pum-theme-16649 .pum-content + .pum-close, .pum-theme-video-theme .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 8px; color: #ffffff; font-family: Arial; font-weight: 100; font-size: 16px; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 0.00 ) } 
 

@@ -485,8 +485,8 @@
                 appType: "DESKTOP",
                 templateFunction: m.a
             }))).mainUniforms = {
-                colorBg1: "#0b0839",
-                colorBg2: "#0b0839",
+                colorBg1: "#1f497d",
+                colorBg2: "#1f497d",
                 rimLimit: .26,
                 rimPower: 1.,
                 rimIntensity: .4,
