@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.app-ab20.marketo.com	TRUE	/	FALSE	1999999999	__cfduid	dbc657d76db3ce4d0b566e02453b535be1578622557
+app-ab20.marketo.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.app-ab20.marketo.com	TRUE	/	FALSE	1999999999	__cf_bm	55f942d97c04e67890a200a38c829a3a4e07759c-1578622558-1800-AcB1fVVaSn2fGc3ACBts0Qs4v/jlKKgMFc+uO09N8JRY/B3d/3PRzkCQqc2dgb3QmU/wFHb01QdXKm/c2SYHXRk=
+.d3js.org	TRUE	/	FALSE	1999999999	__cfduid	d7298d6f4c096440752a9ef77ecfd58cc1578622679
+d3js.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+.highcharts.com	TRUE	/	FALSE	1999999999	__cfduid	d648a240eea43e3eeca76e2ecbc93c9201578622745
+code.highcharts.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hubspot.net	TRUE	/	FALSE	1999999999	__cfduid	dd9d7b4892f3be032ab0eb33de5be39071578626286
+cdn2.hubspot.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+gocatalant.com	TRUE	/	FALSE	1999999999	nDcGWdVbKkPmra	4aBnd%5D7K2Yrito
+gocatalant.com	TRUE	/	FALSE	1999999999	FgIXlKutAConvO	NS%40fw%5BTdYag56u
+gocatalant.com	TRUE	/	FALSE	1999999999	gdpr[consent_types]	%5B%5D
+gocatalant.com	TRUE	/	FALSE	1999999999	gdpr[allowed_cookies]	%5B%5D
+

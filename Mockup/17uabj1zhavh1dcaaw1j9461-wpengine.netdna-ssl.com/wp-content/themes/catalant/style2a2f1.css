@@ -1,0 +1,713 @@
+.wpb_content_element {
+    margin-bottom: 0px !important;
+}
+
+.padding-large li {
+    padding-bottom: 2rem;
+}
+
+.vc_btn3-container .vc_btn3.vc_btn3-style-custom {
+    font-size: 1em !important;
+}
+
+h2 {
+    letter-spacing: 0em !important;
+}
+
+/* block global */
+
+.block-functionMap {
+    padding: 0 2.5rem;
+    background: #eeeeef;
+}
+
+@media screen and (max-width: 800px) {
+.block-functionMap {
+    padding: 0 1rem;
+    }
+}
+
+.block {
+    z-index: 2;
+}
+
+.container {
+    width: auto;
+    max-width: 1200px;
+    min-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 1em;
+}
+
+@media screen and (max-width: 800px) {
+.container, .container.full-bleed>.content {
+    min-width: auto;
+    width: auto;
+    }
+}
+
+.block-functionMap .map {
+    position: relative;
+    height: 25rem;
+    width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    .block-functionMap .map {
+    height: auto;
+    }
+}
+
+.block-functionMap .map .bg {
+    background-image: url(../../uploads/2017/10/globe-with-lines.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 22rem;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+@media screen and (max-width: 800px) {
+.block-functionMap .map .bg {
+    display: none;
+    }
+}
+
+@media screen and (max-width: 800px) {
+.block-functionMap .map .point {
+    position: relative !important;
+    left: auto !important;
+    text-align: center!important;
+    padding: 0 0 3.75rem 0;
+    }
+}
+.block-functionMap .map .point {
+    position: absolute;
+    left: 50%;
+}
+
+.block-functionMap .map .na {
+    text-align: right;
+    top: 7.9rem;
+    margin-left: -22rem;
+}
+
+@media screen and (max-width: 800px) {
+    .block-functionMap .map .na {
+        top: 0;
+        margin: 0;
+    }
+}
+
+.block-functionMap .map .la {
+    text-align: right;
+    top: 16.9rem;
+    margin-left: -18.95rem;
+}
+
+@media screen and (max-width: 800px) {
+.block-functionMap .map .la {
+    top: 0;
+    margin: 0;
+    }
+}
+
+.block-functionMap .map .emea {
+    text-align: left;
+    top: 6.5rem;
+    margin-left: 14.875rem;
+}
+
+@media screen and (max-width: 800px) {
+.block-functionMap .map .emea {
+    top: 0;
+    margin: 0;
+    }
+}
+
+.block-functionMap .map .apac {
+    text-align: left;
+    top: 11.45rem;
+    margin-left: 12.9rem;
+}
+
+@media screen and (max-width: 800px) {
+.block-functionMap .map .apac {
+    top: 0;
+    margin: 0;
+    }
+}
+
+.block-functionMap .map label {
+    color: #3b3b3d;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.block-functionMap .map span {
+    color: #656568;
+    font-size: 1rem;
+    display: block;
+}
+
+.pitch {
+    flex-basis: 49%;
+    flex-grow: 1;
+    display: flex;
+    color: #fff;
+    font-size: 1rem;
+    position: relative;
+    color: #fff;
+    font-size: 1rem;
+}
+
+.pitch .number span {
+    border-radius: 3rem;
+    border: 2px solid #fff;
+    line-height: 2.8rem;
+    text-align: center;
+    width: 3rem;
+    height: 3rem;
+    display: block;
+}
+
+.pitch .text {
+    line-height: 1.5rem;
+    text-align: left;
+    padding-left: 1.25rem;
+}
+
+.pitches {
+    margin: 0 auto;
+    padding: 3.75rem 0 7.5rem 0;
+}
+
+.vc_btn3.vc_btn3-size-xs {
+    padding: 8px 30px !important;
+}
+
+/* breadcrumb */
+.breadcrumb-link {
+    font-weight: 700;
+    opacity: .9;
+    padding-bottom: 4rem;
+}
+
+.entry-featured .breadcrumb-link > a {
+    outline: none;
+    color: #fff;
+    opacity: 0.5;
+    font-weight: 400;
+}
+
+.breadcrumb-link-blog {
+    padding-top: 1rem;
+    opacity: .9;
+}
+#top > div > div > div.breadcrumb-link-blog > a {
+    outline: none;
+    color: #a0a0a3;
+    opacity: 0.5;
+    font-weight: 400;
+}
+.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce) {
+    border-radius: .25rem;
+}
+
+.x-navbar .desktop .x-nav > li > a {
+    color: #ffffff !important;
+}
+
+#menu-item-11154 > a > span {
+    font-weight: 500;
+}
+
+.x-navbar .desktop .x-nav li>a>span:after {
+    content: "\f107"!important;
+}
+
+.x-navbar .desktop .x-nav > li > a:hover, .x-navbar .desktop .x-nav > .x-active > a, .x-navbar .desktop .x-nav > .current-menu-item > a {
+    box-shadow: none !important;
+}
+
+.x-brand {
+    margin-top: 17px !important;
+}
+
+
+
+
+/*=== Forms ===*/
+.home .wpcf7{
+    max-width: 800px;
+    margin: auto;
+}
+.home .wpcf7-form{
+    background: white;
+    padding: 7px;
+    border-radius: 5px;
+    margin-bottom: 0;
+}
+.home .wpcf7 p{
+    margin: 0;
+}
+/*.home .wpcf7 input[type="email"]{
+    width: 83%;
+    margin-right: 2%;
+    margin-bottom: 0;
+    padding: 5px 5px;
+    border: 0px;
+    box-shadow: none;
+    font-size: 14px;
+    font-style: italic;
+}*/
+.home .wpcf7 input[type="submit"]{
+    width: 15%;
+    border: 0px;
+    box-shadow: none;
+    text-shadow: none;
+    padding: 8px 0;
+    margin: 0;
+    background: #ff5722;
+}
+
+/* Contact Us*/
+#contact-us, #emailDemoForm {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.5);
+    overflow-y: scroll;
+    z-index: 10000;
+}
+#contact-us .modal, #emailDemoForm .modal {
+    background: #fff;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    width: 40vw;
+    padding: 1rem 2rem;
+    border-radius: .5em;
+}
+#contact-us .modal .close-popup, #emailDemoForm  .modal .close-popup{
+    float: right;
+    cursor: pointer;
+}
+#contact-us .modal h3, #emailDemoForm .modal h3 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+#contact-us .modal form, #emailDemoForm .modal form {
+    position: relative;
+}
+
+/* Learn Video */
+#learn-video {
+    display: none;
+    background: rgba(0,0,0,.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    z-index: 1000;
+}
+#learn-video-container {
+    -ms-flex-item-align: center;
+    align-self: center;
+    background: #fff;
+    padding: 2rem;
+    width: 50vw;
+    position: relative;
+    border-radius: .5em;
+    z-index: 1000;
+}
+#learn-video-container .close-popup {
+    position: absolute;
+    width: 1rem;
+    height: 1rem;
+    top: .6rem;
+    right: .6rem;
+    opacity: .5;
+    cursor: pointer;
+}
+
+textarea {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.popup-overlay{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+
+
+.mk-box-icon-2.box-align-left .mk-box-icon-2-icon {
+    text-align: left !important;
+}
+
+.mk-button--size-small {
+    padding: 10px 15px !important;
+    font-size: 11px !important;
+    line-height: 100%;
+    letter-spacing: 0.2px !important; }
+
+.mk-button--size-medium {
+    padding: 13px 19px}
+
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.16em; }
+
+
+
+.mk-button--corner-rounded {
+    border-radius: 2px !important;
+}
+
+/*
+p {
+    line-height: 1.4em !important; }*/
+
+
+.mk-divider.thick_solid .divider-inner {
+    border-top-width: 3px !important; }
+
+.text-white-60,
+.text-white-60 p {
+    color: rgba(255,255,255,.6) !important; }
+
+.mk-milestone .milestone-text {
+    letter-spacing: 0px !important;
+}
+
+.btn-md-arrow-white .mk-button {
+  padding: 10px 40px 10px 15px;
+}
+
+.btn-md-arrow-white .mk-button .mk-button--icon {
+    transition: all .3s ease-in-out;
+    position: absolute;
+    right: -5px;
+}
+
+.btn-md-arrow-white:hover .mk-button .mk-button--icon {
+    position: absolute;
+    right: -10px;
+}
+
+.btn-md-arrow-white.btn-text-blue .mk-button .mk-button--icon svg {
+    fill: #7FBEEB; }
+
+.btn-text-blue,
+.btn-text-blue span {
+    color: #7FBEEB !important;
+}
+
+.btn-md-arrow-white.btn-text-orange .mk-button .mk-button--icon svg {
+    fill: #fa733c; }
+
+.btn-text-orange,
+.btn-text-orange span {
+    color: #Fa733c !important;
+}
+
+/*  FOOTER  */
+
+.footer-category-header {
+    display: inline-block;
+    color: rgba(255,255,255,.4) !important;
+    margin: 10px 0 15px 0;
+    font-weight: 800;
+    font-size: 14px;
+}
+ul.footer-link-list,
+.footer-link-list li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0; }
+
+.footer-link-list li a,
+.footer-category-header {
+    transition: .2s all ease-in-out; }
+
+.footer-link-list li a:hover,
+.footer-category-header:hover{
+    color: #7FBEEB !important;
+    margin-left: 2px;}
+
+.footer-link-list li a {
+    color: rgba(255,255,255,.88) !important;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.ws-footer-footer {
+    margin-top: 40px;
+}
+
+.ws-footer-footer .a_list-style-none {
+    display: inline-block;
+    margin-top: -10px !important;
+    margin-right: 20px !important;
+}
+
+/*.ws-footer-dark {
+    background-position: center 40px !important;
+    background-repeat: no-repeat !important;
+    opacity: 0.3 !important;
+    background-image: url(https://gocatalant.com/wp-content/uploads/2018/04/splines-1-blue-purple-70.svg);
+}
+*/
+.ws-footer-dark .widget,
+.ws-footer-dark .widget p {
+    margin-bottom: 0px !important;
+}
+
+#mk-footer .widget {
+    margin-bottom: 0px !important; }
+
+.ws-footer-dark .background-layer {
+    background-position: center 40px !important;
+    background-repeat: no-repeat !important;
+    opacity: 0.3 !important;
+}
+
+.btn-footer-contact,
+.btn-footer-contact span{
+    color: #FFF !important;
+}
+
+#social-networks-10 {
+    margin: 0;
+}
+
+
+/*  POPUP FORM STYLES  */
+
+.modal .form-content h1,
+.modal .form-content h3 {
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: -.3px;
+}
+
+.modal .form-content fieldset {
+    padding: 0;
+    border: 0;
+}
+
+.modal .form-content input.mktoField ,
+.modal .form-content textarea {
+    border: 1px solid rgba(11, 8, 57, 0.3) !important;
+    background: #f3f3f6 !important;
+    border-radius: 2px !important;
+    font-size: 16px !important;
+    font-family: 'Libre-Franklin', sans-serif !important;
+}
+
+.pum-content .mktoForm .mktoLabel {
+    padding-bottom: 9px !important;
+    font-size: 13px;
+    font-weight: 400;
+    color: #767676; }
+
+
+.pum-content .pum-content .mktoFieldWrap {
+    font-size: 16px !important;
+    border: 1px solid rgba(11, 8, 57, 0.3);
+    background: #f3f3f6 !important;
+    border-radius: 2px; }
+
+
+
+.pum-content .mktoFieldDescriptor.mktoFormCol {
+    padding: 0px !important;
+}
+
+.pum-content .mktoFieldWrap .mktoGutter {
+    display: none !important;
+
+}
+
+
+
+.display-none { display: none; }
+
+
+/* popup button stlyes - 5/3/18 - Duque */
+
+.expert-button {
+    background: #ffffff !important;
+    color: #fa733c !important;
+    border-radius: 2px !important;
+    border: solid 3px #fa733c !important;
+    padding: 10px !important;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    font-family: 'libre franklin' !important;
+    font-weight: 600 !important;
+    display: block;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.expert-button:hover {
+    background: #fa733c !important;
+    color: #ffffff !important;
+}
+
+.go-back {
+    background: #ffffff !important;
+    color: #fa733c !important;
+    border-radius: 2px !important;
+    border: solid 2px #fa733c !important;
+    padding: 9px !important;
+    margin-top: 0px !important;
+    margin-bottom: 15px !important;
+    font-family: 'libre franklin' !important;
+    font-weight: 600 !important;
+    font-size: 12px;
+    display: inline-block;
+}
+
+.go-back:hover {
+    background: #fa733c !important;
+    color: #ffffff !important;
+}
+
+.pum-theme-12209 .pum-container, .pum-theme-default-theme .pum-container {
+    max-width: 700px !important;
+}
+
+
+/* Marketo Forms - Duque - 5.3.18 */
+
+.mktoForm .mktoError .mktoErrorMsg {
+    display: block;
+    margin-top: 7px;
+    background-color: #fa733c;
+    background-image: none !important;
+    border: none !important;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: rgba(0,0,0,0.15) 0 2px 7px, inset #fa733c 0 1px 0px !important;
+    box-shadow: rgba(0,0,0,0.15) 0 2px 7px, inset #fa733c 0 1px 0px !important;
+    color: #f3f3f3;
+    font-size: 1em;
+    line-height: 1.2em;
+    max-width: 16em;
+    padding: 0.4em 0.6em;
+    text-shadow: none !important;
+    font-family: 'libre franklin' !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+    font-weight: 600 !important;
+}
+
+button.mktoButton {
+    background-color: #fa733c !important;
+    letter-spacing: 2px !important;
+    font-weight: 800 !important;
+    border-radius: 2px !important;
+    -moz-transition: all .2s ease-in-out !important;
+    -o-transition: all .2s ease-in-out !important;
+    -ms-transition: all .2s ease-in-out !important;
+    transition: all .2s ease-in-out !important;
+}
+
+button.mktoButton:hover {
+    background-color: #db5723 !important;
+}
+
+.mktoFieldDescriptor.mktoFormCol {
+    margin: 0px !important;
+}
+
+label.mktoLabel {
+	font-family: 'Libre Franklin' !important;
+	font-size: 16px !important;
+}
+
+.mktoForm .mktoAsterix {
+    float: right;
+    color: #fa733c !important;
+    padding-left: 5px;
+    display: none;
+    font-size: 26px;
+}
+
+.mktoButtonRow {
+    width: 100%;
+}
+
+.mktoButtonWrap {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+span.pagnav-wrapper {
+    display: none;
+}
+
+
+/* GDPR Plugin */
+
+.gdpr gdpr-privacy-bar {
+    background: rgba(0,0,0,.7) !important;
+    font-family: "libre-franklin", Libre Franklin, sans-serif !important;
+}
+.gdpr-preferences {
+    display: none !important;
+}
+
+.gdpr-content p {
+    font-family: libre-franklin, sans-serif !important;
+}
+
+.gdpr-content a {
+    font-weight: 600;
+    color: #7fBeeB;
+}
+
+button.gdpr-agreement {
+    border: 0px !important;
+    padding-left: 36px !important;
+    background: #3b3a61 !important;
+    box-shadow: none !important;
+}
+
+button.gdpr-agreement:before {
+    display: none !important;
+}
+
+/* Social Sharing Plugin - AddThis - SRD - 11-26-2019 */
+
+.at-above-post.addthis_tool {
+    padding-bottom: 20px !important;
+} 

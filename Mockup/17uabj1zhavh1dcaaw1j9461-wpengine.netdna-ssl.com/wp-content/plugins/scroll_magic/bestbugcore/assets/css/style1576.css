@@ -1,0 +1,63 @@
+.vc_col-sm-1-per-5 {
+  float: left;
+  position: relative;
+  min-height: 1px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+@media (min-width: 768px) {
+  .vc_column_container.vc_col-sm-1-per-5 {
+    width: 20%; } }
+
+.text-left {
+  text-align: left; }
+
+.text-center {
+  text-align: center; }
+
+.text-right {
+  text-align: right; }
+
+.wpsm-dots-navigation {
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 100%;
+  min-width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-flex-wrap: nowrap; }
+  .wpsm-dots-navigation.skin-dark .wpsm-dots.active:before {
+    background: #333; }
+  .wpsm-dots-navigation.skin-dark .wpsm-dots:before {
+    border-color: #333; }
+  .wpsm-dots-navigation .wpsm-dots {
+    text-indent: -9999;
+    font-size: 0;
+    padding: 8px 0; }
+    .wpsm-dots-navigation .wpsm-dots.active:before {
+      background: #fff; }
+    .wpsm-dots-navigation .wpsm-dots:before {
+      -webkit-transition: all .3s ease-out;
+      transition: all .3s ease-out;
+      content: '';
+      background: transparent;
+      width: 10px;
+      height: 10px;
+      box-sizing: border-box;
+      border: 1px solid #fff;
+      border-radius: 100%;
+      position: relative;
+      box-sizing: border-box;
+      display: block;
+      margin: 0;
+      margin-right: auto; }
